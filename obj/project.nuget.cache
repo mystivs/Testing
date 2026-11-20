@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0+VC256JA/A=",
+  "success": true,
+  "projectFilePath": "/home/mystivs/Documents/Kate/CardsMaybe/CardsMaybe.csproj",
+  "expectedPackageFiles": [
+    "/home/mystivs/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.14/microsoft.aspnetcore.app.ref.10.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

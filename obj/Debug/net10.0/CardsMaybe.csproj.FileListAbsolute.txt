@@ -1,0 +1,14 @@
+/home/mystivs/Documents/Kate/CardsMaybe/bin/Debug/net10.0/CardsMaybe
+/home/mystivs/Documents/Kate/CardsMaybe/bin/Debug/net10.0/CardsMaybe.deps.json
+/home/mystivs/Documents/Kate/CardsMaybe/bin/Debug/net10.0/CardsMaybe.runtimeconfig.json
+/home/mystivs/Documents/Kate/CardsMaybe/bin/Debug/net10.0/CardsMaybe.dll
+/home/mystivs/Documents/Kate/CardsMaybe/bin/Debug/net10.0/CardsMaybe.pdb
+/home/mystivs/Documents/Kate/CardsMaybe/obj/Debug/net10.0/CardsMaybe.GeneratedMSBuildEditorConfig.editorconfig
+/home/mystivs/Documents/Kate/CardsMaybe/obj/Debug/net10.0/CardsMaybe.AssemblyInfoInputs.cache
+/home/mystivs/Documents/Kate/CardsMaybe/obj/Debug/net10.0/CardsMaybe.AssemblyInfo.cs
+/home/mystivs/Documents/Kate/CardsMaybe/obj/Debug/net10.0/CardsMaybe.csproj.CoreCompileInputs.cache
+/home/mystivs/Documents/Kate/CardsMaybe/obj/Debug/net10.0/CardsMaybe.dll
+/home/mystivs/Documents/Kate/CardsMaybe/obj/Debug/net10.0/refint/CardsMaybe.dll
+/home/mystivs/Documents/Kate/CardsMaybe/obj/Debug/net10.0/CardsMaybe.pdb
+/home/mystivs/Documents/Kate/CardsMaybe/obj/Debug/net10.0/CardsMaybe.genruntimeconfig.cache
+/home/mystivs/Documents/Kate/CardsMaybe/obj/Debug/net10.0/ref/CardsMaybe.dll
