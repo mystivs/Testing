@@ -1,0 +1,15 @@
+/home/mystivs/Documents/Kate/YellowRedBlueGreen/obj/Debug/net10.0/YellowRedBlueGreen.GeneratedMSBuildEditorConfig.editorconfig
+/home/mystivs/Documents/Kate/YellowRedBlueGreen/obj/Debug/net10.0/YellowRedBlueGreen.AssemblyInfoInputs.cache
+/home/mystivs/Documents/Kate/YellowRedBlueGreen/obj/Debug/net10.0/YellowRedBlueGreen.AssemblyInfo.cs
+/home/mystivs/Documents/Kate/YellowRedBlueGreen/obj/Debug/net10.0/YellowRedBlueGreen.csproj.CoreCompileInputs.cache
+/home/mystivs/Documents/Kate/YellowRedBlueGreen/obj/Debug/net10.0/YellowRedBlueGreen.sourcelink.json
+/home/mystivs/Documents/Kate/YellowRedBlueGreen/bin/Debug/net10.0/YellowRedBlueGreen
+/home/mystivs/Documents/Kate/YellowRedBlueGreen/bin/Debug/net10.0/YellowRedBlueGreen.deps.json
+/home/mystivs/Documents/Kate/YellowRedBlueGreen/bin/Debug/net10.0/YellowRedBlueGreen.runtimeconfig.json
+/home/mystivs/Documents/Kate/YellowRedBlueGreen/bin/Debug/net10.0/YellowRedBlueGreen.dll
+/home/mystivs/Documents/Kate/YellowRedBlueGreen/bin/Debug/net10.0/YellowRedBlueGreen.pdb
+/home/mystivs/Documents/Kate/YellowRedBlueGreen/obj/Debug/net10.0/YellowRedBlueGreen.dll
+/home/mystivs/Documents/Kate/YellowRedBlueGreen/obj/Debug/net10.0/refint/YellowRedBlueGreen.dll
+/home/mystivs/Documents/Kate/YellowRedBlueGreen/obj/Debug/net10.0/YellowRedBlueGreen.pdb
+/home/mystivs/Documents/Kate/YellowRedBlueGreen/obj/Debug/net10.0/YellowRedBlueGreen.genruntimeconfig.cache
+/home/mystivs/Documents/Kate/YellowRedBlueGreen/obj/Debug/net10.0/ref/YellowRedBlueGreen.dll

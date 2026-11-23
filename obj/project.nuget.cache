@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0+VC256JA/A=",
+  "dgSpecHash": "+QGhM4aC9MY=",
   "success": true,
-  "projectFilePath": "/home/mystivs/Documents/Kate/CardsMaybe/CardsMaybe.csproj",
+  "projectFilePath": "/home/mystivs/Documents/Kate/YellowRedBlueGreen/YellowRedBlueGreen.csproj",
   "expectedPackageFiles": [
     "/home/mystivs/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.14/microsoft.aspnetcore.app.ref.10.0.14.nupkg.sha512"
   ],

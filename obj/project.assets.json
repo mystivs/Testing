@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mystivs/Documents/Kate/CardsMaybe/CardsMaybe.csproj",
-      "projectName": "CardsMaybe",
-      "projectPath": "/home/mystivs/Documents/Kate/CardsMaybe/CardsMaybe.csproj",
+      "projectUniqueName": "/home/mystivs/Documents/Kate/YellowRedBlueGreen/YellowRedBlueGreen.csproj",
+      "projectName": "YellowRedBlueGreen",
+      "projectPath": "/home/mystivs/Documents/Kate/YellowRedBlueGreen/YellowRedBlueGreen.csproj",
       "packagesPath": "/home/mystivs/.nuget/packages/",
-      "outputPath": "/home/mystivs/Documents/Kate/CardsMaybe/obj/",
+      "outputPath": "/home/mystivs/Documents/Kate/YellowRedBlueGreen/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mystivs/.nuget/NuGet/NuGet.Config"

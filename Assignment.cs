@@ -4,6 +4,7 @@ public class Assignment
     {
         Card setCard = new Card();
 
+        setCard.CardType = "Fighter";
         setCard.Name = " Messenger";
         setCard.Team = "Redcliff";
         setCard.Power = 100;
@@ -19,6 +20,7 @@ public class Assignment
     {
         Card setCard = new Card();
 
+        setCard.CardType = "Fighter";
         setCard.Name = " Archer";
         setCard.Team = "Redcliff";
         setCard.Power = 50;
@@ -35,6 +37,7 @@ public class Assignment
     {
         Card setCard = new Card();
 
+        setCard.CardType = "Fighter";
         setCard.Name = " Mauler";
         setCard.Team = "Redcliff";
         setCard.Power = 200;
@@ -51,6 +54,7 @@ public class Assignment
     {
         Card setCard = new Card();
 
+        setCard.CardType = "Fighter";
         setCard.Name = " Adept";
         setCard.Team = "Redcliff";
         setCard.Power = 350;
@@ -81,6 +85,7 @@ public class Assignment
     {
         Card setCard = new Card();
 
+        setCard.CardType = "Fighter";
         setCard.Name = " Elite Commander";
         setCard.Team = "Redcliff";
         setCard.Power = 500;
@@ -98,6 +103,7 @@ public class Assignment
     {
         Card setCard = new Card();
 
+        setCard.CardType = "Fighter";
         setCard.Name = " King Richard";
         setCard.Team = "Redcliff";
         setCard.Rank = 5;
@@ -110,36 +116,33 @@ public class Assignment
         return setCard;
     }
 
-    public Action RedcliffDecimate()
+    public Card RedcliffDecimate()
     {
-        Action setAction = new Action();
+        Card setCard = new Card();
 
-        setAction.Name = ": Decimate!";
-        setAction.Team = "Redcliff";
-        setAction.AssistPower = 800;
-        setAction.AssistHealth = 800;
-        setAction.Cost = 4;
-        setAction.BoardRequirement = 1;
+        setCard.CardType = "Action";
+        setCard.Name = ": Decimate";
+        setCard.Team = "Redcliff";
+        setCard.AssistPower = 800;
+        setCard.AssistHealth = 800;
+        setCard.Cost = 5;
+        setCard.OnCast = true;
 
-        SetAction.EffectDesc = ""
-
-        return setAction;
+        return setCard;
     }
 
-    public Action RedcliffRise()
+    public Card RedcliffRise()
     {
-        Action setAction = new Action();
+        Card setCard = new Card();
 
-        setAction.Name = ": Rise!";
-        setAction.Team = "Redcliff";
-        setAction.AssistPower = 600;
-        setAction.AssistHealth = 800;
-        setAction.Cost = 4;
-        setAction.BoardRequirement = 1;
-        // If 0 on board, draw enforcer
-        SetAction.EffectDesc = "All allied Redcliff fighters gain 600 Power. If none are on the board, summon a Redcliff Enforcer"
+        setCard.CardType = "Action";
+        setCard.Name = ": Rise";
+        setCard.Team = "Redcliff";
+        setCard.AssistPower = 600;
+        setCard.Cost = 7;
+        setCard.OnCast = true;
 
-        return setAction;
+        return setCard;
     }
 
 }

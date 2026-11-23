@@ -9,7 +9,7 @@ class Program
         Card RedcliffMessenger = generate.RedcliffMessenger();
         RedcliffMessenger.DisplayCard();
 
-        Action RedcliffRise = generate.RedcliffRise();
-        RedcliffRise.DisplayCard();
+        Card RedcliffDecimate = generate.RedcliffDecimate();
+        RedcliffDecimate.DisplayCard();
     }
 }
